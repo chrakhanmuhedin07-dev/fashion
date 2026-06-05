@@ -1,0 +1,3 @@
+[MockDB] Loaded 34 categories, 45 products from seed data.
+[10:52:07.461] [32mINFO[39m (3424): [36mServer listening[39m
+    [35mport[39m: 8080
